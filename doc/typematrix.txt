@@ -1,0 +1,21 @@
+*typematrix.txt* Plugin to take advantage of typematrix layout
+
+Author:  sheoak <yannick@sheoak.fr>
+License: Same terms as Vim itself (see |license|)
+
+INTRODUCTION                                    *typematrix*
+
+This plugin set a few mappings that are easy to access on typematrix
+
+**Under developpment**
+
+
+MAPPINGS                                        *typematrix-mappings*
+
+    <Backspace>     Page up
+    <Space>         Page down
+    <Up>            Wrap up (gs)
+    <Down>          Wrap down (gt)
+
+
+ vim:tw=78:ts=8:ft=help:norl:
